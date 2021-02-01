@@ -30,6 +30,7 @@ export const FileInfo = styled.div`
 
       button {
         border: 0;
+        
         background: transparent;
         color: #e57878;
         cursor: pointer;
